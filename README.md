@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LubenStoyanov
 - 👀 I’m interested in cloud based development.
-- 🌱 I’m currently learning HTML, CSS, JavaScript using IBM Cloud.
+- 🌱 I’m currently learning HTML, CSS, JavaScript.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me ...
 
